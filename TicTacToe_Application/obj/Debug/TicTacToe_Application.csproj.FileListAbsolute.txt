@@ -1,0 +1,11 @@
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\bin\Debug\TicTacToe_Application.exe.config
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\bin\Debug\TicTacToe_Application.exe
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\bin\Debug\TicTacToe_Application.pdb
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.csprojAssemblyReference.cache
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.Form1.resources
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.Properties.Resources.resources
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.csproj.GenerateResource.cache
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.csproj.CoreCompileInputs.cache
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.exe
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.pdb
+C:\Users\clark\source\repos\TicTacToe_Application\TicTacToe_Application\obj\Debug\TicTacToe_Application.Form2.resources
